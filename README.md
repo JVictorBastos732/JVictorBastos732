@@ -2,7 +2,7 @@
 
 I'm Brazilian.
 
-🎓 Graduating in Information Systems at UNOMINTES.
+🎓 Graduated in Information Systems at UNOMINTES.
 
 🤖 I mainly develop web applications in JavaScript and PHP with Laravel.
 
